@@ -1,0 +1,1 @@
+/Users/molecularlab/Documents/WSG_SLR_2024/Katharina/data/bam/Cleaned_bam/clipped-trimmed-Katharina001_.bam: 3.73996
